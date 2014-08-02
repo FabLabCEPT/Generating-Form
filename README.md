@@ -37,15 +37,21 @@ While the exact pace and coverage of the class will be up to the students enroll
 
 There will be two types of assignments given out in this class.  **All are mandentory and due dates are strict to ensure proper credit is due.**
 
-###### Reading Assignments
+#### Assignments
 
-These will be a combination of short readings and small projects that *will require work outside of class*.  They are formulated so that you will be able to accomplish them with the help of FabLab CEPT and other local resources.
+###### Weekly Assignments
+
+These will be a combination of short readings and small projects/activities that *will require work outside of class*.  Readings will be reasonable in length, yet challenging in content.  
 **Due one week from assigned date.**  
 
 ###### Projects
 
 These are multi-week assignments that will culminate in either a final or mid-term.  Students will have to self-pace for proper completion of the assignment.  
 **Due-date notified at time of assignment.**
+
+#### Expectations
+
+As this class will revolve around theory and readings, **class participation is an absolute nessesity**.
 
 
 ## Schedule
@@ -56,16 +62,28 @@ This semester is made up of 15 classes (numbered 0-14), with one Final Jury.  Pl
 
 > Class **will be held** during Navratri.
 
-|Class                | Dates                      |
-|---------------------|----------------------------|
-| 0 - 7               | 22 July - 16 September     |
-| Mid-term (Class 8)  | 23 September               |
-| 9 - 14              | 30 September - 11 November |
-| Final Jury          | TDB                        |
+| Class                                  | Date         | Notes          |
+|----------------------------------------|--------------|----------------|
+| 0 : Hello, World!  Hello, Markdown!    | 22 July      | virtual class  |
+| 1 :                                    | 5 August     | **No class**   |
+| 2 :                                    | 12 August    |                |
+| 3 :                                    | 19 August    |                |
+| 4 :                                    | 26 August    |                |
+| 5 :                                    | 2 September  |                |
+| 6 :                                    | 9 September  |                |
+| 7 : A ~~Murder~~ Mid-Term is Announced | 16 September |                |
+| 8 : **Mid-Term**                       | 23 September | Meet at FabLab |
+| 9 :                                    | 30 September |                |
+| 10 : | 7 October    |  |
+| 11 : | 14 October   |  |
+| 12 : | 28 October   |  |
+| 13 : | 4 November   |  |
+| 14 : | 11 November  |  |
+| **Final Jury**                         | TBA          | Location TBA   |
 
 ---
 
-## Policies
+## Policies, et al.
 
 ### Attendance & Due Dates
 
@@ -115,13 +133,14 @@ Any questions about citation, research, or those in regards to this policy shoul
 
 *This policy is heavily influenced by those of MIT (Cambridge, MA).  For more information see ```integrity.mit.edu```.*
 
-
 ### Code of Conduct
 
 All students (and others) are required to treat themselves, those around them, their environment with the upmost respect.  Discrimination, harassment, violance, etc. of any kind, is unacceptable and **will be handled with all seriousness**.  
 
 Any questions in regards to this policy should be referred to ```fablab@cept.ac.in```.
 
+---
+
 ### License  
 
-Unless other wise noted, this content is licensed under
+TBA
