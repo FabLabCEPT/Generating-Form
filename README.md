@@ -65,7 +65,7 @@ This semester is made up of 15 classes (numbered 0-14), with one Final Jury.  Pl
 | Class                                  | Date         | Notes          |
 |----------------------------------------|--------------|----------------|
 | 0 : Hello, World!  Hello, Markdown!    | 22 July      | virtual class  |
-| 1 :                                    | 5 August     | **No class**   |
+| 1                                      | 5 August     | **No class**   |
 | 2 :                                    | 12 August    |                |
 | 3 :                                    | 19 August    |                |
 | 4 :                                    | 26 August    |                |
