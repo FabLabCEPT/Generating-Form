@@ -36,17 +36,6 @@ This semester is made up of 15 classes (numbered 0-14), with one Final Jury.  Pl
 
 > Class **will be held** during Navratri.
 
-# Class/Lecture Notes, et al.
-
-
-* [Class 0 : "Hello, World!  Hello, Class!  Hello, Markdown!"](class0.md)
-    * [Assignment 0](class0.md#assignment-0--hello-markdown)
-* Class 1 : No Class
-* Class 2 : No Class
-* [Class 3 : What is "Computational Design"?](class3.md)
-    * [Assignment 3](class3.md)
-
-
 | Class                                               | Date         | Notes          | Assignment                             |
 |-----------------------------------------------------|--------------|----------------|----------------------------------------|
 | 0 : [Hello, World!  Hello, Markdown!](class0.md)    | 22 July      | virtual class  | [Assignment 0](class0.md#assignment-0) |
