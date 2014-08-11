@@ -47,24 +47,24 @@ This semester is made up of 15 classes (numbered 0-14), with one Final Jury.  Pl
     * [Assignment 3](class3.md)
 
 
-| Class                                               | Date         | Notes          | Assignment             |
-|-----------------------------------------------------|--------------|----------------|------------------------|
-| 0 : [Hello, World!  Hello, Markdown!](class0.md)    | 22 July      | virtual class  | [Assign. 0](class0.md#)
-| 1                                                   | 5 August     | **No class**   |
-| 2 :                                                 | 12 August    |                |
-| 3 :                                                 | 19 August    |                |
-| 4 :                                                 | 26 August    |                |
-| 5 :                                                 | 2 September  |                |
-| 6 :                                                 | 9 September  |                |
-| 7 : A ~~Murder~~ Mid-Term is Announced              | 16 September |                |
-| 8 : **Mid-Term**                                    | 23 September | Meet at FabLab |
-| 9 :                                                 | 30 September |                |
-| 10 : | 7 October    |  |
-| 11 : | 14 October   |  |
-| 12 : | 28 October   |  |
-| 13 : | 4 November   |  |
-| 14 : | 11 November  |  |
-| **Final Jury**                         | TBA          | Location TBA   |
+| Class                                               | Date         | Notes          | Assignment                             |
+|-----------------------------------------------------|--------------|----------------|----------------------------------------|
+| 0 : [Hello, World!  Hello, Markdown!](class0.md)    | 22 July      | virtual class  | [Assignment 0](class0.md#assignment-0) |
+| 1                                                   | 5 August     | **No class**   |                                        |
+| 2 : [Hello, Class! & Shape Grammars I](class2.md)   | 12 August    |                | [Assignment 2](class2.md#assignment-2) |
+| 3 :                                                 | 19 August    |                |                                        |
+| 4 :                                                 | 26 August    |                |                                        |
+| 5 :                                                 | 2 September  |                |                                        |
+| 6 :                                                 | 9 September  |                |                                        |
+| 7 : A ~~Murder~~ Mid-Term is Announced              | 16 September |                |                                        |
+| 8 : **Mid-Term**                                    | 23 September | Meet at FabLab |                                        |
+| 9 :                                                 | 30 September |                |                                        |
+| 10 :                                                | 7 October    |                |                                        |
+| 11 :                                                | 14 October   |                |                                        |
+| 12 :                                                | 28 October   |                |                                        |
+| 13 :                                                | 4 November   |                |                                        |
+| 14 :                                                | 11 November  |                |                                        |
+| **Final Jury**                                      | TBA          | Location TBA   |                                        |
 
 
 ## Assignments and Expectations
