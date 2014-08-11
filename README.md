@@ -29,7 +29,43 @@ While the exact pace and coverage of the class will be up to the students enroll
 * Physical basis for math and shape
 * Tool and rule creation
 
----
+
+## Schedule
+
+This semester is made up of 15 classes (numbered 0-14), with one Final Jury.  Please note that two dates, which would normally have class, will be off due to Eid (29 July, 2014) and Diwali (21 October, 2014).
+
+> Class **will be held** during Navratri.
+
+# Class/Lecture Notes, et al.
+
+
+* [Class 0 : "Hello, World!  Hello, Class!  Hello, Markdown!"](class0.md)
+    * [Assignment 0](class0.md#assignment-0--hello-markdown)
+* Class 1 : No Class
+* Class 2 : No Class
+* [Class 3 : What is "Computational Design"?](class3.md)
+    * [Assignment 3](class3.md)
+
+
+| Class                                               | Date         | Notes          | Assignment             |
+|-----------------------------------------------------|--------------|----------------|------------------------|
+| 0 : [Hello, World!  Hello, Markdown!](class0.md)    | 22 July      | virtual class  | [Assign. 0](class0.md#)
+| 1                                                   | 5 August     | **No class**   |
+| 2 :                                                 | 12 August    |                |
+| 3 :                                                 | 19 August    |                |
+| 4 :                                                 | 26 August    |                |
+| 5 :                                                 | 2 September  |                |
+| 6 :                                                 | 9 September  |                |
+| 7 : A ~~Murder~~ Mid-Term is Announced              | 16 September |                |
+| 8 : **Mid-Term**                                    | 23 September | Meet at FabLab |
+| 9 :                                                 | 30 September |                |
+| 10 : | 7 October    |  |
+| 11 : | 14 October   |  |
+| 12 : | 28 October   |  |
+| 13 : | 4 November   |  |
+| 14 : | 11 November  |  |
+| **Final Jury**                         | TBA          | Location TBA   |
+
 
 ## Assignments and Expectations
 
@@ -52,34 +88,6 @@ These are multi-week assignments that will culminate in either a final or mid-te
 #### Expectations
 
 As this class will revolve around theory and readings, **class participation is an absolute nessesity**.
-
-
-## Schedule
-
-> For a more detailed, class-by-class breakdown, please see the class notes.
-
-This semester is made up of 15 classes (numbered 0-14), with one Final Jury.  Please note that two dates, which would normally have class, will be off due to Eid (29 July, 2014) and Diwali (21 October, 2014).  Below is a list of how the semester will be broken up with important dates noted.
-
-> Class **will be held** during Navratri.
-
-| Class                                  | Date         | Notes          |
-|----------------------------------------|--------------|----------------|
-| 0 : Hello, World!  Hello, Markdown!    | 22 July      | virtual class  |
-| 1                                      | 5 August     | **No class**   |
-| 2 :                                    | 12 August    |                |
-| 3 :                                    | 19 August    |                |
-| 4 :                                    | 26 August    |                |
-| 5 :                                    | 2 September  |                |
-| 6 :                                    | 9 September  |                |
-| 7 : A ~~Murder~~ Mid-Term is Announced | 16 September |                |
-| 8 : **Mid-Term**                       | 23 September | Meet at FabLab |
-| 9 :                                    | 30 September |                |
-| 10 : | 7 October    |  |
-| 11 : | 14 October   |  |
-| 12 : | 28 October   |  |
-| 13 : | 4 November   |  |
-| 14 : | 11 November  |  |
-| **Final Jury**                         | TBA          | Location TBA   |
 
 ---
 
