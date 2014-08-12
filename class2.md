@@ -4,11 +4,11 @@
 
 ## Schedule
 
--[X] Hello, Class!
--[X] Markdown, redux
--[X] Student Introductions
--[ ] Intro to Shape Grammars
--[ ] Assignment 2
+1. Hello, Class!
+2. Markdown, redux  
+3. Student Introductions  
+4. Intro to Shape Grammars
+5. Assignment 2  
 
 ##Notes
 
