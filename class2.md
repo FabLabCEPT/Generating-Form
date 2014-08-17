@@ -41,7 +41,7 @@
     ![A Simple Addition Rule](Content/sg_simpRule.png)  
     ![A Simple Additon Computation](Content/sg_simpComp.png)  
 
-## Assignment 2
+## Assignment
 
 > Due: 14:30 IST - 19 August, 2014
 

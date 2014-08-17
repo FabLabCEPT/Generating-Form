@@ -10,7 +10,7 @@ Markdown (```.md``` or ```.markdown```) is a *human-readable* text format that i
 * [GitHub-flavored Markdown](https://guides.github.com/features/mastering-markdown/)
 * [Don't forget the **emojis**!](http://www.emoji-cheat-sheet.com/) :smiley:
 
-## Assignment 0
+## Assignment
 
 > Due: 23:59 IST - 1 August, 2014
 
