@@ -38,10 +38,10 @@ This semester is made up of 15 classes (numbered 0-14), with one Final Jury.  Pl
 
 | Class                                               | Date         | Notes          | Assignment                             |
 |-----------------------------------------------------|--------------|----------------|----------------------------------------|
-| 0 : [Hello, World!  Hello, Markdown!](class0.md)    | 22 July      | virtual class  | [Assignment 0](class0.md#assignment) |
+| 0 : [Hello, World!  Hello, Markdown!](class0.md)    | 22 July      | virtual class  | [Assignment 0](class0.md#assignment)   |
 | 1                                                   | 5 August     | **No class**   |                                        |
-| 2 : [Hello, Class! & Shape Grammars I](class2.md)   | 12 August    |                | [Assignment 2](class2.md#assignment) |
-| 3 :                                                 | 19 August    |                |                                        |
+| 2 : [Hello, Class! & Shape Grammars I](class2.md)   | 12 August    |                | [Assignment 2](class2.md#assignment)   |
+| 3 : [Shape Grammars II](class3.md)                  | 19 August    |                | [Assignment 3](class3.md#assignment)   |
 | 4 :                                                 | 26 August    |                |                                        |
 | 5 :                                                 | 2 September  |                |                                        |
 | 6 :                                                 | 9 September  |                |                                        |
