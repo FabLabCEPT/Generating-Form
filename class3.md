@@ -17,12 +17,12 @@
 
 ### "let's re-examine what we are doing here."
 
-*The ambiguity of shape* (the eye)  
+*The ambiguity of shape* (the eye)    
+`+`    
+*~~Reductionism~~ Abstraction and Formal Systems* (the mind)    
 `+`  
-*~~Reductionism~~ Abstraction and Formal Systems* (the mind)  
-`+`
-*Spacial Relationships* (the eye & the mind)  
-`=`  
+*Spacial Relationships* (the eye & the mind)    
+`=`    
 **Shape Grammars**
 
 #### Formal Systems, or, What is our toolset for dealing with "shape"?
