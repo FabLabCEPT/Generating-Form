@@ -42,11 +42,11 @@ This semester is made up of 15 classes (numbered 0-14), with one Final Jury.  Pl
 | 1                                                   | 5 August     | **No class**   |                                        |
 | 2 : [Hello, Class! & Shape Grammars I](class2.md)   | 12 August    |                | [Assignment 2](class2.md#assignment)   |
 | 3 : [Shape Grammars II](class3.md)                  | 19 August    |                | [Assignment 3](class3.md#assignment)   |
-| 4 :                                                 | 26 August    |                |                                        |
-| 5 :                                                 | 2 September  |                |                                        |
+| 4 : [Shape Grammars^3](class4.md)                   | 26 August    |                | [Assignment 4](class4.md#assignment)   |
+| 5 : A ~~Murder~~ Mid-Term is Announced              | 2 September  |                |                                        |
 | 6 :                                                 | 9 September  |                |                                        |
-| 7 : A ~~Murder~~ Mid-Term is Announced              | 16 September |                |                                        |
-| 8 : **Mid-Term**                                    | 23 September | Meet at FabLab |                                        |
+| 7 : **Mid-Term**                                    | 16 September | Meet at FabLab |                                        |
+| 8 :                                                 | 23 September |                |                                        |
 | 9 :                                                 | 30 September |                |                                        |
 | 10 :                                                | 7 October    |                |                                        |
 | 11 :                                                | 14 October   |                |                                        |
